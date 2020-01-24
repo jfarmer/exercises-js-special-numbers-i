@@ -1,2 +1,1 @@
-# JavaScript Template
-
+# Exercises - Special Numbers I
